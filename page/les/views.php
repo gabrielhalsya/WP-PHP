@@ -30,7 +30,7 @@ $data = Index("SELECT * FROM alternatif LIMIT $awal,$halaman");
                                         <tr>
                                             <th class="has-text-white">No</th>
                                             <th class="has-text-white">Kode Alternatif</th>
-                                            <th class="has-text-white">Nama Tempat Les</th>
+                                            <th class="has-text-white">Nama Alternatif</th>
                                             <th class="has-text-white">Aksi</th>
                                         </tr>
                                     </thead>
@@ -38,7 +38,7 @@ $data = Index("SELECT * FROM alternatif LIMIT $awal,$halaman");
                                         <tr>
                                             <th class="has-text-white">No</th>
                                             <th class="has-text-white">Kode Alternatif</th>
-                                            <th class="has-text-white">Nama Tempat Les</th>
+                                            <th class="has-text-white">Nama Alternatif</th>
                                             <th class="has-text-white">Aksi</th>
                                         </tr>
                                     </tfoot>
